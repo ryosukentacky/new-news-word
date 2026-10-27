@@ -1,0 +1,73 @@
+{
+  "cards": [
+    {
+      "name": "国債",
+      "original_html_sha256": "922c0f88dfe46fb9a086138d80c00750ec8db4eabe1e84449949d14aa88bca1e",
+      "original_text_characters": 5051,
+      "questions": 3
+    },
+    {
+      "name": "PBR",
+      "original_html_sha256": "b60dfb9824e5ff181ff64596c58e4ab835f12199a5e1a53436b1c3cb71e77d10",
+      "original_text_characters": 7667,
+      "questions": 3
+    },
+    {
+      "name": "PSR",
+      "original_html_sha256": "181327dd837fef33ca6df465ea5fd6f78e1ef2c8042cef58143fe394fed32e1b",
+      "original_text_characters": 7353,
+      "questions": 3
+    },
+    {
+      "name": "PHP",
+      "original_html_sha256": "4e1b18de82deaf86254b7f1b55b215b08a4e4b25525f0081e2cff6f8ecc6549f",
+      "original_text_characters": 5888,
+      "questions": 3
+    },
+    {
+      "name": "アメリカの中間選挙",
+      "original_html_sha256": "41722972e860573ea93493374eb52afd62eb03118950ab446a334d285f190034",
+      "original_text_characters": 6633,
+      "questions": 3
+    },
+    {
+      "name": "サマータイム",
+      "original_html_sha256": "7c0e9ce8050b0aa365d4c004dd815fb1f460bbde5071de87c45e597ebd940c13",
+      "original_text_characters": 7354,
+      "questions": 3
+    },
+    {
+      "name": "関税",
+      "original_html_sha256": "6a9e920e3be7adce2f2c0d2ec3be917c84269cea636b116bedeef895a33c5474",
+      "original_text_characters": 8651,
+      "questions": 3
+    },
+    {
+      "name": "長期金利と短期金利",
+      "original_html_sha256": "9c90c1fc972a64d0dfabab5c72792f6d114a025fc4ecc10c5bd5a6df787a9333",
+      "original_text_characters": 9689,
+      "questions": 3
+    },
+    {
+      "name": "中秋の名月",
+      "original_html_sha256": "d3122fa1a489cbbc48b71953970bf2733237fa2ba5c0cdf896eea3b7d10a6b6f",
+      "original_text_characters": 5410,
+      "questions": 3
+    },
+    {
+      "name": "土用の丑の日",
+      "original_html_sha256": "b21ccfb2258f1a0390e2d2ba90f6a1c3e198d51729a39f1957edb69597dc410c",
+      "original_text_characters": 6673,
+      "questions": 3
+    },
+    {
+      "name": "彼岸",
+      "original_html_sha256": "3b95ab54d6e97490863a03edd7d85c6baec7ef7f10025552c28a387d34d1fb29",
+      "original_text_characters": 7876,
+      "questions": 3
+    }
+  ],
+  "montage_sha256": "d286b4d33be641eede7ba4d3412b5104776edeb075b65a0ce43ddae9edfbe3e4",
+  "index_sha256": "bea6938b9cc4e1b9e08abdfcb09b28c24260e4cf907d484d6fb6053598fc2697",
+  "verification": "DOM tests passed; browser and mobile rendering not yet verified"
+}
